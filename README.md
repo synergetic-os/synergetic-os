@@ -4,9 +4,9 @@
  
 **An open-source research initiative exploring topology-based modeling, adaptive resource management, and emergent coordination in operating-system architecture.**
  
-   [Synergetics Operating System logo](https://synergetic-os.github.io/) 
+   [Synergetics Operating System](https://synergetic-os.github.io/) 
  
-   [**Official Website**](https://synergetic-os.github.io/) •   [**Repositories**](https://github.com/synergetic-os) •   [**Prototype**](https://github.com/synergetic-os/Prototype) •   [**Rust Scheduler Simulation**](https://github.com/synergetic-os/Simulation/blob/main/synergetic_scheduler_rust_simulation.rs) 
+   [**Official Website**](https://synergetic-os.github.io/) •   [**Repositories**](https://github.com/synergetic-os?tab=repositories) •   [**Prototype**](https://github.com/synergetic-os/Prototype) •   [**Rust Scheduler Simulation**](https://github.com/synergetic-os/Simulation/blob/main/synergetic_scheduler_rust_simulation.rs) 
  
 ***
  
