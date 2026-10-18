@@ -212,7 +212,7 @@ Potential areas of contribution include:
  
 ### Get Involved
  
-- 🏢 [Visit the SOS GitHub Organization](https://github.com/synergetic-os)
+- 🏢 [Visit the SOS GitHub Organization](https://linkedin.com/company/synergetics-operating-system)
 - 💻 [Explore the Prototype](https://github.com/synergetic-os/Prototype)
 - ⚙️ [Explore the Scheduler Simulation](https://github.com/synergetic-os/Simulation/blob/main/synergetic_scheduler_rust_simulation.rs)
 - 🌐 [Visit the Official Website](https://synergetic-os.github.io/)
