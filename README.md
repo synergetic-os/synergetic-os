@@ -220,7 +220,7 @@ Potential areas of contribution include:
  
 For collaboration and organizational partnership inquiries, contact:
  
-**synergeticsoperatingsystem@gmail.com**
+**synergeticoperatingsystem@gmail.com**
  
 Organizations, research institutions, universities, open-source foundations, and engineering groups interested in collaboration or discussing the project's future direction are welcome to reach out.
  
