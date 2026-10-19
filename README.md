@@ -268,6 +268,33 @@ Visit the [GitHub organization](https://github.com/synergetic-os) to explore the
 |Founder LinkedIn|[Solomon Adeklo](https://www.linkedin.com/in/solomon-adeklo-1501453bb/)|
  
 ***
+
+
+## 📰 Read Our Articles
+
+### 1. DEV Community
+
+**[Rethinking the Operating System: Why We Need to Explore a Synergetic Approach to Computing](https://dev.to/synergeticos/rethinking-the-operating-system-why-we-need-to-explore-a-synergetic-approach-to-computing-507g)**
+
+Discover why we need to explore a synergetic approach to computing and how SOS envisions new possibilities for operating system design.
+
+### 2. Medium
+
+**[Rethinking the Operating System: Why We Need to Explore a Synergetic Approach to Computing](https://sadeklo.medium.com/rethinking-the-operating-system-why-we-need-to-explore-a-synergetic-approach-to-computing-22320491b17c)**
+
+Learn about the inspiration behind SOS, its core concepts, proposed architecture, and the founder's journey in developing this experimental project.
+
+
+## 🤝 Get Involved
+
+We welcome feedback, ideas, and collaboration from software developers, researchers, students, and open-source enthusiasts interested in operating systems, Rust, graph theory, adaptive scheduling, and resource management.
+
+Interested in contributing? Contact us at **synergeticsoperatingsystem@gmail.com**.
+
+---
+
+*Exploring adaptive, resource-aware computing through Synergetics, research, and open collaboration.*
+
  
 ## ⚠️ Project Status and Disclaimer
  
