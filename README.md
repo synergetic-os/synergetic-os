@@ -6,7 +6,7 @@
  
 **An open-source research initiative exploring topology-based modeling, adaptive resource management, and emergent coordination in operating-system architecture.**
  
-   [Synergetics Operating System](https://synergetic-os.github.io/) 
+   [Synergetic Operating System](https://synergetic-os.github.io/) 
  
    [**Official Website**](https://synergetic-os.github.io/) •   [**Repositories**](https://github.com/synergetic-os?tab=repositories) •   [**Prototype**](https://github.com/synergetic-os/Prototype) •   [**Rust Scheduler Simulation**](https://github.com/synergetic-os/Simulation/blob/main/synergetic_scheduler_rust_simulation.rs) 
  
@@ -14,7 +14,7 @@
  
 ## 📖 About the Project
  
-The **Synergetics Operating System (SOS)** is an experimental research and development initiative investigating whether geometric relationships, topology-based models, resource-field abstractions, and adaptive scheduling concepts can inform a different approach to operating-system architecture.
+The **Synergetic Operating System (SOS)** is an experimental research and development initiative investigating whether geometric relationships, topology-based models, resource-field abstractions, and adaptive scheduling concepts can inform a different approach to operating-system architecture.
  
 Inspired by the work of **Buckminster Fuller**, particularly his ideas about Synergetics and ephemeralization, SOS explores how the relationships among processes, workloads, computational resources, and system components might be modeled to support more adaptive coordination.
  
