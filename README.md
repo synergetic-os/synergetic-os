@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row"><img src="cover.png" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: row"><img src="cover.png" width="100%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 
 # 🌐 Synergetics Operating System (SOS)
  
