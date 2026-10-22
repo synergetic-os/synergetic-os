@@ -170,6 +170,9 @@ SOS is supported by research publications and system documentation describing th
 The publication discusses the proposed topology-based perspective, resource-field model, and emergent coordination concepts.
  
 📄 [Read the Research Publication on ResearchGate](https://www.researchgate.net/publication/416398093_Synergetic_Operating_System_SOS_-A_Comprehensive_Guide_to_the_Vision_Principles_Architecture_and_Research)
+
+📄 [Read the Research Publication in Chinese on ResearchGate](https://www.researchgate.net/publication/416492234_xietongcaozuoxitongSOSduiqiyuanjingyuanzejiagouyuyanjiudequanmianzhinan)
+
  
 ### Comprehensive Systems Documentation
  
